@@ -7,3 +7,11 @@ NIWE Internship Work Project
 4. Built a user-friendly Flask web application to provide convenient access to the forecasting model, allowing users to input location and time parameters and retrieve forecasted wind speed values.
 5. Implemented Docker containerization to package the web application and its dependencies into a portable container, ensuring consistency and reliability across different computing environments.
 6. Visualized forecasted wind speed values using matplotlib, enabling intuitive interpretation of predicted trends and patterns.
+
+
+Files :
+1. FCT Model_NIWE - SARIMA Model Code
+2. app.py - Flask App Code
+3. dockerfile - DockerFile
+4. Data Extraction_NIWE - NETCdf to CSV Conversion
+5. Requirements txt for DockerFile
